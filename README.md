@@ -2,4 +2,4 @@
 
 THINGS TO DO 
 
-Ream/skim FTP protocol
+Read/skim FTP protocol
